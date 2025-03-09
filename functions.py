@@ -84,12 +84,3 @@ def mark_task(task_id, status):
             save_tasks(tasks)
 
             return
-        
-
-"""print("All good")
-load_tasks()
-print("All good")"""
-
-#create_table()
-
-#           D:\Programming\Projects\applications\task_tracker\functions.py
